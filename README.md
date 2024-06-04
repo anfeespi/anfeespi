@@ -3,6 +3,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfeespi" alt="anfeespi" /></a> </p>
 
+```javascript
+const anfeespi = {
+  pronouns: "he" | "him",
+  code: [Java, C++, C, Python, PHP, Javascript],
+  tools: [Figma],
+  frontend: [Thymeleaf, Angular, CSS3, HTML5],
+  backend: [Spring, Django],
+  database: [MySQL, MongoDB, PostgreSQL],
+  architecture: ["microservices"],
+  groupsNCommunities: {
+                        name: "GPC-UEB",
+                        university: "Universidad El Bosque",
+                        mentor: "Diego Rodriguez"
+                      },
+ challenge: "Graduate :u"
+}
+```
+
+
 - 🌱 I’m currently learning **Django and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anfeespi](https://github.com/anfeespi)

@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Espitia</h1>
 <h3 align="center">A competitive programmer and Frontend-Backend developer from Colombia :D</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfeespi" alt="anfeespi" /></a> </p>
-
 ```javascript
 const anfeespi = {
   pronouns: "he" | "him",

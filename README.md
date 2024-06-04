@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfeespi" alt="anfeespi" /></a> </p>
 
-- 🔭 I’m currently working on [ForestBet](https://github.com/anfeespi/ForestBet)
-
 - 🌱 I’m currently learning **Django and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anfeespi](https://github.com/anfeespi)

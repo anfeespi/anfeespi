@@ -1,17 +1,17 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <h1 align="center">Hi 👋, I'm Andrés Espitia</h1>
-<h3 align="center">A competitive programmer and Frontend-Backend developer from Colombia :D</h3>
+<h3 align="center">A competitive programmer and FullStack developer from Colombia :D</h3>
 
 ```javascript
 const anfeespi = {
   pronouns: "he" | "him",
-  code: [Java, C++, C, Python, PHP, Javascript],
+  code: [Java, C++, C, Python, PHP, Javascript, TypeScript],
   tools: [Figma],
-  frontend: [Thymeleaf, Angular, CSS3, HTML5, JSF, PrimeFaces],
+  frontend: [Thymeleaf, ReactJS, CSS3, HTML5, JSF, PrimeFaces],
   backend: [Spring, Django],
   database: [MySQL, MongoDB, PostgreSQL],
-  architecture: ["microservices"],
+  architecture: ["microservices", "SOA", "Layered"],
   groupsNCommunities: {
                         name: "GPC-UEB",
                         university: "Universidad El Bosque",
@@ -22,7 +22,7 @@ const anfeespi = {
 ```
 
 
-- 🌱 I’m currently learning **Django and Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anfeespi](https://github.com/anfeespi)
 

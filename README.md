@@ -6,18 +6,17 @@
 ```javascript
 const anfeespi = {
   pronouns: "he" | "him",
-  code: [Java, C++, C, Python, PHP, Javascript, TypeScript],
+  code: [Java, C++, C, Python, PHP, Javascript, TypeScript, Go],
   tools: [Figma],
   frontend: [Thymeleaf, ReactJS, CSS3, HTML5, JSF, PrimeFaces],
-  backend: [Spring, Django],
+  backend: [Spring, Gin Gonic],
   database: [MySQL, MongoDB, PostgreSQL],
-  architecture: ["microservices", "SOA", "Layered"],
+  architecture: ["microservices", "SOA", "Layered", "Monolythic", "Clean", "MVC"],
   groupsNCommunities: {
                         name: "GPC-UEB",
-                        university: "Universidad El Bosque",
-                        mentor: "Diego Rodriguez"
+                        university: "Universidad El Bosque"
                       },
- challenge: "Graduate :u"
+ challenge: "Internship :u"
 }
 ```
 

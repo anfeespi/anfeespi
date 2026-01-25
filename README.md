@@ -16,7 +16,7 @@ const anfeespi = {
                         name: "GPC-UEB",
                         university: "Universidad El Bosque"
                       },
- challenge: "Internship :u"
+ challenge: "Graduate :u"
 }
 ```
 
@@ -25,7 +25,7 @@ const anfeespi = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/anfeespi](https://github.com/anfeespi)
 
-- 💬 Ask me about **Spring, Java and C++**
+- 💬 Ask me about **Backend, Go, Java and C++**
 
 - 📫 How to reach me **andres.espitia.afer@gmail.com**
 

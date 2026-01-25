@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <h1 align="center">Hi 👋, I'm Andrés Espitia</h1>
-<h3 align="center">A competitive programmer and FullStack developer from Colombia :D</h3>
+<h3 align="center">A competitive programmer and Backend developer from Colombia :D</h3>
 
 ```javascript
 const anfeespi = {

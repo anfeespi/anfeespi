@@ -106,8 +106,9 @@ var anfeespi = struct {
 ## 🏅 Highlights
 
 - ICPC South America-North Finalist
-- Full Stack Developer Intern at Yuno
+- Full Stack Developer at Yuno
 - Best Graduation Project II 2026-1
+- Honor Graduate Promotion 2026-1
 - Competitive Programming Team Leader
 - Passionate about scalable software and intelligent systems
 

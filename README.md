@@ -31,6 +31,7 @@ var anfeespi = struct {
     Currently    []string
 }{
     Role:      "Software Engineer",
+    Company:   "Yuno",
     Education: "Systems Engineering",
 
     Languages: []string{
@@ -66,9 +67,9 @@ var anfeespi = struct {
 
 ## 🚀 About Me
 
-- 🏢 Full Stack Developer Intern at Yuno
+- 🏢 Software Engineer - Full Stack at Yuno
 - 🏆 ICPC South America-North Finalist
-- 🎓 Systems Engineering Graduate (Awaiting Degree Ceremony)
+- 🎓 Systems Engineer, Universidad El Bosque · Honor Degree (top student of the School of Engineering)
 - 🤖 Interested in AI Agents, MCP Servers and Intelligent Systems
 - ⚙️ Passionate about Backend Engineering and Distributed Systems
 - 💬 Ask me about Go, Java, Competitive Programming and Software Architecture
@@ -106,7 +107,7 @@ var anfeespi = struct {
 ## 🏅 Highlights
 
 - ICPC South America-North Finalist
-- Full Stack Developer at Yuno
+- Software Engineer - Full Stack at Yuno
 - Best Graduation Project II 2026-1
 - Honor Graduate Promotion 2026-1
 - Competitive Programming Team Leader
